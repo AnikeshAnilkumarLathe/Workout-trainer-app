@@ -1,7 +1,7 @@
-import {StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-export default function Home() {
+export default function Profile() {
   return (
     <View
       style={{
@@ -10,7 +10,7 @@ export default function Home() {
         alignItems: "center",
       }}
     >
-      <Text>Welcome to Workout Trainer App </Text>
+      <Text>Profile</Text>
     </View>
   );
 }
