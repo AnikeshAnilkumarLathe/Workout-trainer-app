@@ -103,6 +103,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         marginVertical: 10,
+        backgroundColor:"#1B1212"
     },
     exerciseContainer: {
         padding: 10,
@@ -112,6 +113,7 @@ const styles = StyleSheet.create({
     },
     exerciseText: {
         fontSize: 16,
+        color:"white"
     },
     addButton: {
         backgroundColor: "#007BFF",

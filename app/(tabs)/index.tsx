@@ -8,9 +8,16 @@ export default function Home() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        backgroundColor:"#1B1212",
       }}
     >
-      <Text>Welcome to Workout Trainer App! </Text>
+      <Text
+      style={{
+        color:"#007AFF",
+        fontSize:50,
+      }}
+      >
+        Welcome to Workout Trainer App! </Text>
     </View>
   );
 }
