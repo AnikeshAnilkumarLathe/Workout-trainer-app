@@ -10,7 +10,7 @@ export default function Home() {
         alignItems: "center",
       }}
     >
-      <Text>Welcome to Workout Trainer App </Text>
+      <Text>Welcome to Workout Trainer App! </Text>
     </View>
   );
 }

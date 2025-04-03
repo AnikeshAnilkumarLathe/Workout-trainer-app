@@ -7,7 +7,7 @@ export default function ExerciseDetail() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Exercise ID:{name} </Text>
+      <Text style={styles.title}>{name} </Text>
       <Text style={styles.detail}>{instructions}</Text>
     </View>
   );
