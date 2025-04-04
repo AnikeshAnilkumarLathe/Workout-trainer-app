@@ -52,10 +52,12 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-around',
     marginTop: 10,
+    marginBottom: 30,
   },
 });
 
 const stopwatchStyles = {
   container: { alignItems: 'center', marginVertical: 10 },
   text: { fontSize: 24, fontWeight: 'bold' },
+  marginBottom:100,
 };
